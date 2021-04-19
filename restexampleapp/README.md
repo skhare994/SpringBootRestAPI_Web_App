@@ -3,6 +3,8 @@
 [Fetch the data from RestAPI service with Vaadin and SpringBoot] 
 - [GitHub](https://github.com/skhare994/SpringBootRestAPI_Web_App)
 
+[![UI View](rest-example.png)]
+
 This application demonstrates to connect Spring Boot application to a REST API in Backend and Display Result in Front End. 
 I am using Fake Rest API for Json data: [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com)
  
